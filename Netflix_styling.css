@@ -738,6 +738,7 @@ header::before {
 
 .last-line{
   color: #a0a0a2;
+  font-weight: 400;
 }
 
 /* END OF FOOTER STYLING  */
